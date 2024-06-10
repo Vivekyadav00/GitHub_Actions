@@ -1,4 +1,4 @@
-i have created a files .github/workflows/first-actions.yml   .github/workflows/self-hosted.yml     src/addition.py              on github for performing ci/cd using github actions  
+I have created a files .github/workflows/first-actions.yml   .github/workflows/self-hosted.yml     src/addition.py              on github for performing ci/cd using github actions  
  we can do ci/cd actions using github in two ways 
 1.using github actions itself
 2. self hosted runner 
